@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 A well-organized, creative and goal-oriented Third Year student of B.Tech CSE at SRM University. Proficient in Java, SQL, 
-Cloud Computing. I am working towards gaining more technical and interpersonal skills to help me grow and contribute to the 
+Cloud Computing and Web Development . I am working towards gaining more technical and interpersonal skills to help me grow and contribute to the 
 welfare of the organization.
 
 ## 🔥 LeetCode Stats
