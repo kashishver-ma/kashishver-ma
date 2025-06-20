@@ -25,6 +25,41 @@ welfare of the organization.
 
 ## 🚀 Academic Projects
 
+### [Digital Metapedia](https://github.com/kashishver-ma/digital-metapedia)  
+A digital marketing website offering industry insights and client-side CMS for flexible content management.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+
+**Features:**
+- Developed a digital marketing platform with dedicated sections for services, insights, and blogs  
+- Integrated a lightweight Client Management System (CMS) for real-time content updates  
+
+**Key Learnings:**
+- Strengthened skills in SEO-friendly routing and static generation using Next.js  
+- Improved Firebase integration for content and asset management  
+- Enhanced UI/UX and responsive design using Tailwind CSS  
+
+[GitHub Repository](https://github.com/kashishver-ma/diigitalmetapedia)
+
+
+### [AWS Server Management Chatbot](https://github.com/vision-pro-ai/chatbot-server-management)  
+A Python-based chatbot automating AWS EC2 management and real-time server reporting.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+
+**Features:**
+- Managed EC2 instances using Boto3 for start, stop, and snapshot cleanup  
+- Generated automated PDF reports for server status and resource metrics  
+- Implemented logging and alerts for real-time system monitoring  
+
+**Key Learnings:**
+- Developed infrastructure automation logic using AWS SDK  
+- Gained practical exposure to cloud resource optimization and reporting  
+- Explored PDF generation and logging mechanisms in Python  
+
+[GitHub Repository](https://github.com/kashishver-ma/aws-server-bot)
+
+
 ### [Doctor Appointment Booking System](https://doctorappointmentbooking-teal.vercel.app/) 
 A comprehensive healthcare appointment management system with role-based access.
 
