@@ -76,6 +76,19 @@ A comprehensive healthcare appointment management system with role-based access.
 
 [Live Demo](https://doctorappointmentbooking-teal.vercel.app/) | [GitHub Repository](https://github.com/kashishver-ma/doctorappointmentbooking)
 
+### [College Society Management](https://github.com/kashishver-ma/college-society-management)
+Comprehensive platform for managing college clubs and organizations.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+**Features:**
+- Member management and role assignment
+- Event planning, scheduling, and coordination
+- Resource allocation and tracking
+
+[GitHub Repository](https://github.com/kashishver-ma/college-society-management)
+
+
 ### [TODO List Manager](https://github.com/kashishver-ma/todo-list)
 A feature-rich task management application with real-time synchronization.
 
@@ -103,18 +116,6 @@ Video content platform with user authentication and media management.
 - Responsive design for seamless experience across devices
 
 [GitHub Repository](https://github.com/kashishver-ma/newtube)
-
-### [College Society Management](https://github.com/kashishver-ma/college-society-management)
-Comprehensive platform for managing college clubs and organizations.
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-
-**Features:**
-- Member management and role assignment
-- Event planning, scheduling, and coordination
-- Resource allocation and tracking
-
-[GitHub Repository](https://github.com/kashishver-ma/college-society-management)
 
 ### [Note Taking Application](https://github.com/kashishver-ma/notesweb)
 A Java-based application for efficient note management.
