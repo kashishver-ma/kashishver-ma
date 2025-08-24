@@ -25,6 +25,28 @@ welfare of the organization.
 
 ## 🚀 Academic Projects
 
+### [AWS Server-Management Chatbot](https://github.com/vision-pro-ai/chatbot-server-management)
+Python-based chatbot designed to **manage AWS EC2 instances** and automate server tasks using **Boto3**. Enables real-time monitoring, snapshot cleanup, and efficient cloud resource management.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS"/> <img src="https://img.shields.io/badge/Boto3-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Boto3"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+
+
+## Features
+- **AWS EC2 Management**: Start, stop, and monitor EC2 instances programmatically.
+- **Snapshot Automation**: Identify and delete stale EBS snapshots to optimize storage costs.
+- **Real-Time Monitoring**: Fetch server status, CPU utilization, and other metrics on-demand.
+- **Interactive Chatbot Interface**: User-friendly chatbot interface to trigger server actions.
+- **Cloud Integration**: Fully utilizes AWS SDK (**Boto3**) for seamless interaction with cloud resources.
+- **Data Export**: Generate real-time reports in **Excel** or **PDF** for audit and analysis.
+
+## Key Learnings
+- Gained hands-on experience with **AWS services** (EC2, S3, Lambda, CloudWatch).
+- Learned to automate **server management tasks** using **Python and Boto3**.
+- Implemented **real-time data fetching** and reporting.
+- Improved understanding of **cloud resource optimization** and cost management.
+- Enhanced skills in building **interactive CLI/Chatbot applications** with Python.
+
+
 ### [Digital Metapedia](https://github.com/kashishver-ma/digital-metapedia)  
 A digital marketing website offering industry insights and client-side CMS for flexible content management.
 
@@ -40,25 +62,6 @@ A digital marketing website offering industry insights and client-side CMS for f
 - Enhanced UI/UX and responsive design using Tailwind CSS  
 
 [GitHub Repository](https://github.com/kashishver-ma/diigitalmetapedia)
-
-
-### [AWS Server Management Chatbot](https://github.com/vision-pro-ai/chatbot-server-management)  
-A Python-based chatbot automating AWS EC2 management and real-time server reporting.
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-
-**Features:**
-- Managed EC2 instances using Boto3 for start, stop, and snapshot cleanup  
-- Generated automated PDF reports for server status and resource metrics  
-- Implemented logging and alerts for real-time system monitoring  
-
-**Key Learnings:**
-- Developed infrastructure automation logic using AWS SDK  
-- Gained practical exposure to cloud resource optimization and reporting  
-- Explored PDF generation and logging mechanisms in Python  
-
-[GitHub Repository](https://github.com/kashishver-ma/aws-server-bot)
-
 
 ### [Doctor Appointment Booking System](https://doctorappointmentbooking-teal.vercel.app/) 
 A comprehensive healthcare appointment management system with role-based access.
