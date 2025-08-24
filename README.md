@@ -25,11 +25,12 @@ welfare of the organization.
 
 ## 🚀 Academic Projects
 
-### [AWS Server-Management Chatbot](https://github.com/vision-pro-ai/chatbot-server-management)
+## [AWS Server-Management Chatbot](https://github.com/vision-pro-ai/chatbot-server-management)
 Python-based chatbot designed to **manage AWS EC2 instances** and automate server tasks using **Boto3**. Enables real-time monitoring, snapshot cleanup, and efficient cloud resource management.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS"/> <img src="https://img.shields.io/badge/Boto3-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Boto3"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
 
+![images](https://github.com/kashishver-ma/kashishver-ma/blob/main/img.jpg)
 
 ## Features
 - **AWS EC2 Management**: Start, stop, and monitor EC2 instances programmatically.
@@ -47,10 +48,12 @@ Python-based chatbot designed to **manage AWS EC2 instances** and automate serve
 - Enhanced skills in building **interactive CLI/Chatbot applications** with Python.
 
 
-### [Digital Metapedia](https://github.com/kashishver-ma/digital-metapedia)  
+## [Digital Metapedia](https://github.com/kashishver-ma/digital-metapedia)  
 A digital marketing website offering industry insights and client-side CMS for flexible content management.
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+
+![img](https://github.com/kashishver-ma/kashishver-ma/blob/main/dashboard.jpg)
 
 **Features:**
 - Developed a digital marketing platform with dedicated sections for services, insights, and blogs  
@@ -63,10 +66,12 @@ A digital marketing website offering industry insights and client-side CMS for f
 
 [GitHub Repository](https://github.com/kashishver-ma/diigitalmetapedia)
 
-### [Doctor Appointment Booking System](https://doctorappointmentbooking-teal.vercel.app/) 
+## [Doctor Appointment Booking System](https://doctorappointmentbooking-teal.vercel.app/) 
 A comprehensive healthcare appointment management system with role-based access.
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+
+![img](https://github.com/kashishver-ma/kashishver-ma/blob/main/LANDING%20DOC.png)
 
 **Features:**
 - Developed a role-based authentication system for doctors, admins, and patients using Firebase Auth
@@ -79,10 +84,12 @@ A comprehensive healthcare appointment management system with role-based access.
 
 [Live Demo](https://doctorappointmentbooking-teal.vercel.app/) | [GitHub Repository](https://github.com/kashishver-ma/doctorappointmentbooking)
 
-### [College Society Management](https://github.com/kashishver-ma/college-society-management)
+## [College Society Management](https://github.com/kashishver-ma/college-society-management)
 Comprehensive platform for managing college clubs and organizations.
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+![img](https://github.com/kashishver-ma/kashishver-ma/blob/main/societyhead-event%20screen.jpg)
 
 **Features:**
 - Member management and role assignment
@@ -92,10 +99,12 @@ Comprehensive platform for managing college clubs and organizations.
 [GitHub Repository](https://github.com/kashishver-ma/college-society-management)
 
 
-### [TODO List Manager](https://github.com/kashishver-ma/todo-list)
+## [TODO List Manager](https://github.com/kashishver-ma/todo-list)
 A feature-rich task management application with real-time synchronization.
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+
+![image](https://github.com/kashishver-ma/kashishver-ma/blob/main/profile.png)
 
 **Features:**
 - Implemented task addition, deletion, and status updates with real-time synchronization
@@ -124,6 +133,8 @@ Video content platform with user authentication and media management.
 A Java-based application for efficient note management.
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+
+![image](https://github.com/kashishver-ma/kashishver-ma/blob/main/entry.jpg)
 
 **Features:**
 - Designed a Java-based note-taking app with an intuitive UI and customizable sticky notes
